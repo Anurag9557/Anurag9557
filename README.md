@@ -8,6 +8,16 @@
 
 ---
 
+### 🏆 Achievements
+
+- 🥇 **1st place** among 583 participants in **ML FORGE**, the IIT (BHU) machine learning competition
+- 🚀 **Top ~2,000 of 1.61 lakh+** participants nationwide in **Flipkart GRiD 8.0**, advancing to the Semi-Finals (Round 3)
+- 🛣️ **Top 5 of 40** teams nationwide in **Project Rakshak**; presented at IIT Delhi's Road Safety Forum
+- 🎓 **NPTEL Elite + Gold Medal (93%)** in Neural Networks for Computer Vision and NLP, IIT Guwahati · [scorecard](https://drive.google.com/file/d/1O2OXqTIKUZ1KaoIpZI0LRxDLaziozf9l/view?usp=sharing)
+- 🏋️ **1st place** in the 83 kg+ Powerlifting category at **Spardha'25**, IIT (BHU) Varanasi
+
+---
+
 ### 🚀 Featured projects
 
 | Project | What it does | Built with |
